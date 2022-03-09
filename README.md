@@ -2,4 +2,4 @@
 
 My Portfolio
 
--[Landing page de tipo Portfolio](https://arquidev8.github.io/Portfolio-my-services/portfolio-cv)
+-[Landing page de tipo Portfolio](https://arquidev8.github.io/Portfolio/portfolio-cv)
