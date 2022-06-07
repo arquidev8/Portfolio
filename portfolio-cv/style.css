@@ -378,7 +378,7 @@ p{
 }
 
 .menu a:hover{
-    color: var(--first-alpha-color);
+    color: var(--title-color);
     /* background-color: var(--); */
 }
 
