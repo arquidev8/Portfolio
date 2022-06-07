@@ -1,6 +1,6 @@
 /*************custom properties ***********/
 :root{
-    --first-color: #d90062;
+    --first-color: #00639b;
     --first-alpha-color: rgba(217,0,98,0.75);
     --second-color: #14192d;
     --second-alpha-color: rgba(20,25,45,0.75);
@@ -641,7 +641,7 @@ progress::-moz-progress-bar{
     padding: 1rem;
     width: 100%;
     height: var(--header-height);
-    background-color: var(--second-color);
+    background-color: var(--white-color);
 }
 
 .header > .container {
