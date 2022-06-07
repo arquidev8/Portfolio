@@ -628,7 +628,7 @@ progress::-moz-progress-bar{
     padding: 0.5rem;
     text-align: center;
     color: var(--white-color);
-    background-color: var(--third-color);
+    background-color: var(--black-color);
 }
 
 
